@@ -1,2 +1,2 @@
-Login: irina_bymchak \n
+Login: irina_bymchak 
 Password: FREE_ACCOUNT
